@@ -1,0 +1,29 @@
+body{
+    max-width: 960px;
+    margin: 10px auto;
+    font-family: sans-serif;
+    border:1px solid rgb(160, 160, 160);
+}
+
+h1,h2,h3{
+    text-align: center;
+}
+.p-img, .logo{
+    width:150px;
+    border:solid 6px black;
+}
+hr{
+    border-style: dashed;
+    width:200px;
+
+}
+li{
+    list-style:none;
+}
+div{
+    border:1px solid rgb(156, 156, 156);
+    background-color: whitesmoke;
+    padding:20px;
+    text-align: center;
+    margin:20px;
+}
