@@ -1,0 +1,20 @@
+body{
+    background-color: darkgray;
+    text-align: center;
+    border: 3px solid black;
+    
+}
+p{
+    text-align: center;
+    border-block: 10px;
+}
+hr{
+    width: 15%;
+    border: dashed blue;
+}
+.para{
+    border: 3px double;
+    width: 90%;
+    margin-left: 5%;
+    background-color: aqua;
+}
