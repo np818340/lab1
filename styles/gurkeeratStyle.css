@@ -12,6 +12,10 @@ hr {
   div {
       border: 2px solid black;
       margin: 20px;
+      background-color: #fffeee;
+  }
+  div .aboutMe {
+    background-color: #e3e3e3;
   }
   p {
       text-align: justify;
