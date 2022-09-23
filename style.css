@@ -1,15 +1,26 @@
 body{
     max-width: 960px;
-    margin: auto;
-
+    margin: 10px auto;
+    font-family: sans-serif;
+    border:1px solid rgb(199, 199, 199);
 }
-h1,h2{
+
+h1,h2,h3{
     text-align: center;
 }
+.p-img, .logo{
+    width:150px;
+    border:solid 6px black;
+}
+hr{
+    border-style: dashed;
+    width:200px;
+
+}
 div{
-    border:1px solid black;
+    border:1px solid rgb(156, 156, 156);
     background-color: whitesmoke;
     padding:20px;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
+    margin:20px;
 }
