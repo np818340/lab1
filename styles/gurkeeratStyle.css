@@ -1,0 +1,40 @@
+hr {
+    border: none;
+    border-top: 1px dotted rgb(0, 0, 0);
+    color: #fff;
+    background-color: #fff;
+    height: 1px;
+    width: 30%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  div {
+      border: 2px solid black;
+      margin: 20px;
+  }
+  p {
+      text-align: justify;
+      margin: 5px;
+  }
+  
+  body {
+      background-color: #faf2e4;
+      margin: 0 10%;
+      font-family: sans-serif;
+      text-align: center;    
+  }
+      img {
+          display: block;
+          margin-top: 25px;
+          margin-left: auto;
+          margin-right: auto;
+          width: 12%;
+          height: 18%;
+          border: 3px solid yellowgreen;
+          /* margin: auto; */
+      }h1 {
+      text-align: center;
+      /* border-bottom: 1px solid #57b1dc; */
+      margin-top: 30px;
+      }
